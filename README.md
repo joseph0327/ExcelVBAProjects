@@ -11,7 +11,7 @@
 
 2. Ticket Hygiene
 
-Button: 'Add Record'
+  Button: 'Add Record'
 - By selecting the 'Add Record' button, users initiate the addition of a new entry.
 - This action triggers a user interface prompt.
 - Analysts will conduct random ticket audits, adhering to specified criteria outlined within the form.
@@ -19,8 +19,8 @@ Button: 'Add Record'
 - Should any fields remain unfilled, a notification will alert the user.
 - Upon submission, data is saved directly to the Excel file.
 
-Button: 'Clear'
+  Button: 'Clear'
 - Designed to reset all data entries, the 'Clear' button enables the reuse of the Excel file.
 
-Button: 'Email'
+  Button: 'Email'
 - With a simple click, users can effortlessly send the file via email utilizing the designated button.
